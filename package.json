@@ -1,0 +1,16 @@
+{
+  "name": "daily-agent-swarm",
+  "version": "1.0.0",
+  "description": "Daily agent swarm that brainstorms ideas, evaluates them, and publishes the best",
+  "main": "src/swarm-orchestrator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/swarm-orchestrator.js",
+    "daily": "node src/swarm-orchestrator.js --daily",
+    "test": "node src/swarm-orchestrator.js --test",
+    "publish": "node src/publisher.js"
+  },
+  "keywords": ["agent-swarm", "ai", "brainstorming", "automation", "ideas"],
+  "author": "Earth & RITA 🦋",
+  "license": "MIT"
+}

@@ -1,0 +1,42 @@
+{
+  "date": "2026-02-04",
+  "generated": "2026-02-04T13:07:37.630Z",
+  "agents": [
+    {
+      "index": 1,
+      "id": "business-guru",
+      "name": "📈 Business Growth Agent",
+      "model": "kimi-coding/k2p5",
+      "thinking": "medium",
+      "task": "Generate 3 business growth ideas for Asobo Creations (coloring book/digital art business).\n\nEach idea must be:\n- Actionable TODAY\n- Low effort, high impact  \n- Specific (not generic advice)\n\nFORMAT:\n## IDEA 1: [Catchy Title]\n**What:** [2-3 sentence description]\n**Why:** [Why this works now]\n**How:** [Step-by-step implementation]\n**Impact:** [Expected result with numbers]\n**Difficulty:** [Easy/Medium/Hard]\n**Score:** [Self-rate 1-10]\n\nGenerate 3 ideas now.",
+      "status": "ready_to_spawn"
+    },
+    {
+      "index": 2,
+      "id": "content-creator",
+      "name": "🎨 Content Marketing Agent",
+      "model": "kimi-coding/k2p5",
+      "thinking": "low",
+      "task": "Generate 3 viral content ideas for a coloring book business.\n\nFocus on:\n- TikTok/Reels that could go viral\n- Pinterest pins that drive traffic\n- Content that converts viewers to buyers\n\nFORMAT:\n## IDEA 1: [Title]\n**Format:** [Video/Pin/Blog/etc]\n**Hook:** [First 3 seconds that grab attention]\n**Content:** [What happens in the content]\n**CTA:** [Call to action]\n**Why Viral:** [Psychology/trend reasoning]\n**Score:** [Self-rate 1-10]\n\nGenerate 3 ideas now.",
+      "status": "ready_to_spawn"
+    },
+    {
+      "index": 3,
+      "id": "tech-innovator",
+      "name": "⚡ Tech Automation Agent",
+      "model": "kimi-coding/k2p5",
+      "thinking": "high",
+      "task": "Generate 3 automation/tool ideas for a digital product business.\n\nCould be:\n- Scripts that save time\n- New tools to build\n- Workflow improvements\n- AI integrations\n\nFORMAT:\n## IDEA 1: [Tool Name]\n**Problem:** [What it solves]\n**Solution:** [How it works]\n**Implementation:** [Technical steps]\n**Time Saved:** [Hours per week]\n**Build Time:** [How long to create]\n**Score:** [Self-rate 1-10]\n\nGenerate 3 ideas now.",
+      "status": "ready_to_spawn"
+    },
+    {
+      "index": 4,
+      "id": "creative-muse",
+      "name": "🌟 Creative Product Agent",
+      "model": "kimi-coding/k2p5",
+      "thinking": "low",
+      "task": "Generate 3 new coloring book/digital product ideas.\n\nConsider:\n- Trending aesthetics (kawaii, dark academia, cottagecore, etc.)\n- Underserved niches\n- Seasonal opportunities\n- Unique angles on popular themes\n\nFORMAT:\n## IDEA 1: [Product Name]\n**Theme:** [What it's about]\n**Audience:** [Who would buy this]\n**5 Page Ideas:** [Brief descriptions]\n**Trend Alignment:** [Why it's timely]\n**Production:** [Hours to create]\n**Score:** [Self-rate 1-10]\n\nGenerate 3 ideas now.",
+      "status": "ready_to_spawn"
+    }
+  ]
+}
